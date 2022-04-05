@@ -1,0 +1,50 @@
+[
+  {
+    "state": "Indiana",
+    "sex": "F",
+    "birth_date": "30/12/1980",
+    "member_id": "agf123"
+  },
+  {
+    "state": "Indiana",
+    "sex": "F",
+    "birth_date": "15/03/1969",
+    "member_id": "agf233"
+  },
+  {
+    "state": "Arkansas",
+    "sex": "M",
+    "birth_date": "22/02/1978",
+    "member_id": "ggg078"
+  },
+  {
+    "member_id": "pyt234",
+    "state": "Arkansas",
+    "sex": "F",
+    "birth_date": "03/08/1992"
+  },
+  {
+    "member_id": "pyt123",
+    "state": "Indiana",
+    "sex": "M",
+    "birth_date": "03/07/1982"
+  },
+  {
+    "member_id": "pyt223",
+    "state": "Indiana",
+    "sex": "M",
+    "birth_date": "24/07/1984"
+  },
+  {
+    "member_id": "pyt250",
+    "state": "Arkansas",
+    "sex": "F",
+    "birth_date": "12/12/1972"
+  },
+  {
+    "member_id": "py320",
+    "state": "Indiana",
+    "sex": "M",
+    "birth_date": "24/12/1993"
+  }
+]
